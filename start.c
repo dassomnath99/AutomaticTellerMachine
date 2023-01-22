@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("***************** WELCOME TO DAZ *******************\n");
+    printf("***************** WELCOME TO XYZ ATM *******************\n");
     float x, y;
     char ch;
     printf("Enter the Intial Amount: \n");
