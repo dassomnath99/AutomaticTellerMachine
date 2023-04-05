@@ -1,2 +1,2 @@
-# ATM
+# atm
 Automatic Teller Machine
